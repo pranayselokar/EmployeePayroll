@@ -1,0 +1,14 @@
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.exe
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.deps.json
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.json
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.dev.json
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.AssemblyReference.cache
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfo.cs
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\prana\OneDrive\Desktop\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.genruntimeconfig.cache
